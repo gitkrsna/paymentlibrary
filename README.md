@@ -1,4 +1,4 @@
-Run following command in terminal
+Run following commands in terminal after cloning the project
 
 1. cd backend_assignment
 2. cd payment_api
