@@ -1,7 +1,6 @@
 Run following commands in terminal after cloning the project
 
-1. cd backend_assignment
-2. cd payment_api
+1. cd payment_api
 2. source ../env/bin/activate
 3. python manage.py runserver
 
